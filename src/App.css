@@ -1,0 +1,25 @@
+body {
+  color: aliceblue;
+  background: url(D:\rpactice\react\my-app\src\img\roza.jpg);
+}
+
+.btn_success {
+  width: 100px;
+  height: 30px;
+  background: rgb(50, 221, 50);
+  border: 0px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+.btn_success:hover {
+  color: rgb(50, 221, 50);
+  background: black;
+}
+
+.alert {
+  margin-left: 20px;
+  background: pink;
+  color: black;
+  width: 240px;
+  margin-top: 20px;
+}
